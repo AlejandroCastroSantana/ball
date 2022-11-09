@@ -24,7 +24,12 @@ public class MainMenu : MonoBehaviour
 
     public void CargarNivel(string nombreNivel)
     {
-        SceneManager.LoadScene(nombreNivel);
+        SceneManager.LoadScene("nombreNivel");
+    }
+
+    public void PasarNivel(string nombreNivel)
+    {
+        SceneManager.LoadScene("nivel2");
     }
 
     public void Salir()

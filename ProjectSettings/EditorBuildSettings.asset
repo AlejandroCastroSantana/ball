@@ -11,4 +11,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/juego.unity
     guid: 3de5901207d6f394998d15161b29b4f9
+  - enabled: 1
+    path: Assets/nivel2.unity
+    guid: c2c037d79d6bf684187d0bbe06efdb8b
   m_configObjects: {}
